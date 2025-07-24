@@ -2,4 +2,4 @@
 #having apikey
 
 #add your apikey or secret key
-apikey = "YOUR API KEEY HERE"
+apikey = "AIzaSyC_mwoxOpWgpvwFt_7GjDVMd7DhJenxu-w"
